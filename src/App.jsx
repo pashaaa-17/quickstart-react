@@ -175,7 +175,6 @@ const ReturnToDocsLink = () => {
         boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
       }}
     >
-      return to docs
     </a>
   );
 };
